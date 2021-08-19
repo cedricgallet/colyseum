@@ -5,6 +5,7 @@
         <div class="row">
             <div class="col-12">
     
+                
                 <h3 class="bg-success">Exercice 6 - Afficher le titre de tous les spectacles ainsi que l'artiste, la date et l'heure.
                 <p>les titres par ordre alphabétique.</p>  
                 <p>Afficher les résultat comme ceci : Spectacle par artiste, le date à heure.</p></h3>

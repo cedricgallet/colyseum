@@ -7,7 +7,7 @@
     
                 <!-- =================================================================================== -->
                 
-<h3 class="bg-success">Exercice 1 -  Afficher tous les clients</h3>
+                <h3 class="bg-success">Exercice 1 -  Afficher tous les clients</h3>
                 <table class="table table-dark align-items-center table-hover">
                     <thead class="thead-light">
                         <th scope="col">Nom</th>
